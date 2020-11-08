@@ -1,0 +1,5 @@
+#name
+//input[@name="lastname"]
+[class="form-group third_class"] input
+//input[@data-name="email-input"]
+//input[@class="form-control second"]
